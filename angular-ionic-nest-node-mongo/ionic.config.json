@@ -1,7 +1,0 @@
-{
-  "name": "angular-ionic-nest-node-mongo",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
